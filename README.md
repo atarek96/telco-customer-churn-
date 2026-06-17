@@ -1,1 +1,38 @@
-# telco-customer-churn-
+# Telco Customer Churn Prediction
+
+## 📋 Project Overview
+
+This project analyzes and predicts customer churn for a telecommunications company using machine learning. By identifying customers at high risk of leaving, the business can implement targeted retention strategies to reduce churn and maximize revenue.
+
+**Key Objectives:**
+- Perform exploratory data analysis (EDA) to understand churn patterns
+- Build and compare multiple ML models for churn prediction
+- Identify key churn drivers using SHAP explainability
+- Quantify revenue-at-risk and prioritize high-value customers
+- Provide actionable business recommendations
+
+## 📊 Dataset
+
+The dataset is from [Kaggle - Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn).
+
+- **File**: `WA_Fn-UseC_-Telco-Customer-Churn.csv`
+- **Rows**: 7043 customers
+- **Columns**: 21 features including demographics, services, contract details, and churn label
+- **Target Variable**: `Churn` (Yes/No)
+
+**Key Features:**
+- `tenure`: Months with the company
+- `MonthlyCharges` & `TotalCharges`
+- `Contract`: Month-to-month, One year, Two year
+- `PaymentMethod`, `InternetService`, etc.
+- Customer demographics: gender, SeniorCitizen, Partner, Dependents
+
+## 🛠️ Technologies & Libraries
+
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn, XGBoost
+- **Explainability**: SHAP
+- **Environment**: Python 3, Jupyter Notebook
+- **Visualization**: Plotly / Seaborn
+
+## 📁 Project Structure
