@@ -36,3 +36,21 @@ The dataset is from [Kaggle - Telco Customer Churn](https://www.kaggle.com/blast
 - **Visualization**: Plotly / Seaborn
 
 ## 📁 Project Structure
+
+Telco-Customer-Churn/
+├── Telco_Customer_Churn.ipynb     # Main Jupyter Notebook
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Dataset
+├── README.md
+├── requirements.txt
+└── outputs/
+
+
+
+## 🚀 How to Run
+
+### Prerequisites
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/atarek96/telco-customer-churn-/
+   cd Telco-Customer-Churn
