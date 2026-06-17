@@ -1,5 +1,7 @@
 # Telco Customer Churn Prediction
 
+<img width="274" height="184" alt="download" src="https://github.com/user-attachments/assets/8e32858b-75e9-4a18-b050-045e8e570c53" />
+
 ## 📋 Project Overview
 
 This project analyzes and predicts customer churn for a telecommunications company using machine learning. By identifying customers at high risk of leaving, the business can implement targeted retention strategies to reduce churn and maximize revenue.
