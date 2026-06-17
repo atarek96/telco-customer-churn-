@@ -1,4 +1,5 @@
 # Telco Customer Churn Prediction
+<img width="274" height="184" alt="download" src="https://images.pexels.com/photos/35916546/pexels-photo-35916546.jpeg" />
 
 ## 📋 Project Overview
 
