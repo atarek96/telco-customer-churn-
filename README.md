@@ -38,10 +38,15 @@ The dataset is from [Kaggle - Telco Customer Churn](https://www.kaggle.com/blast
 ## 📁 Project Structure
 
 Telco-Customer-Churn/
+
 ├── Telco_Customer_Churn.ipynb     # Main Jupyter Notebook
+
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Dataset
+
 ├── README.md
+
 ├── requirements.txt
+
 └── outputs/
 
 
